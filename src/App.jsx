@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import Formulario from "./components/Formulario"
 import Header from "./components/Header"
-import ListadoPacientes from "./components/ListadoPaciente"
+import ListadoPacientes from "./components/ListadoPacientes"
 
 function App() {
 
